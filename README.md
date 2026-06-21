@@ -212,3 +212,13 @@ Running the DDL
 Automated deployment
 
 - Use `scripts/deploy-to-tomcat.ps1` to build the project and deploy the WAR to a Tomcat `webapps` directory.
+
+
+- # 👨‍💻 Author
+
+**JAGANNATH SAHOO**
+
+B.Tech Student | Interested in HTML, AI, NLP, and real-world machine learning systems.
+
+---
+
